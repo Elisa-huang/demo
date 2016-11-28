@@ -1,0 +1,9 @@
+*{
+	margin:0;
+	width:0;
+}
+body{
+	width:500px;
+	height:800px;
+	background-color:#f00;
+}
